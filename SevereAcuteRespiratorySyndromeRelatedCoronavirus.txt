@@ -238,7 +238,7 @@ G
 T
 T
 T
-C
+T
 G
 T
 C
@@ -3034,8 +3034,8 @@ C
 T
 T
 T
-C
 T
+T
 A
 C
 C
@@ -4198,7 +4198,7 @@ A
 A
 A
 T
-G
+T
 C
 T
 A
@@ -14405,8 +14405,8 @@ C
 C
 A
 C
-C
 T
+T
 A
 C
 A
@@ -23400,7 +23400,7 @@ C
 A
 G
 G
-A
+G
 T
 G
 T
@@ -26524,7 +26524,7 @@ A
 T
 G
 G
-C
+T
 A
 G
 A
