@@ -28858,7 +28858,7 @@ G
 A
 A
 A
-T
+C
 T
 C
 A
@@ -29868,18 +29868,6 @@ T
 G
 A
 C
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 A
 A
 A
