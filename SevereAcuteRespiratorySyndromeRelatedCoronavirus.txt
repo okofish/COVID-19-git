@@ -1,14 +1,5 @@
-A
-T
-T
-A
-A
-A
-G
-G
 T
 T
-T
 A
 T
 A
@@ -25772,7 +25763,7 @@ C
 T
 T
 T
-G
+T
 G
 C
 T
