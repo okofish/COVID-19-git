@@ -1,17 +1,6 @@
 A
 T
-T
-A
-A
-A
-G
-G
-T
-T
-T
 A
-T
-A
 C
 C
 T
@@ -10629,7 +10618,7 @@ C
 A
 A
 G
-C
+T
 A
 G
 C
