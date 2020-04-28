@@ -3775,7 +3775,7 @@ G
 C
 A
 C
-A
+G
 A
 A
 T
@@ -8385,7 +8385,7 @@ C
 A
 C
 A
-A
+G
 C
 A
 T
@@ -8984,7 +8984,7 @@ T
 G
 A
 C
-T
+A
 T
 T
 G
@@ -29868,10 +29868,6 @@ T
 G
 A
 C
-A
-A
-A
-A
 A
 A
 A
