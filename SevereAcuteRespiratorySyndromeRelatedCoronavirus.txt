@@ -8089,7 +8089,7 @@ A
 A
 C
 T
-C
+T
 A
 A
 A
@@ -11080,7 +11080,7 @@ T
 T
 T
 T
-G
+T
 T
 A
 T
@@ -29868,18 +29868,6 @@ T
 G
 A
 C
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 A
 A
 A
