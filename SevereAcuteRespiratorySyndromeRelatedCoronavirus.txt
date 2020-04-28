@@ -6993,8 +6993,8 @@ T
 T
 A
 A
-T
 C
+C
 T
 A
 C
@@ -29868,10 +29868,6 @@ T
 G
 A
 C
-A
-A
-A
-A
 A
 A
 A
