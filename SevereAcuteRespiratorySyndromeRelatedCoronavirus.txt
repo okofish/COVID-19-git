@@ -238,7 +238,7 @@ G
 T
 T
 T
-C
+Y
 G
 T
 C
@@ -1056,7 +1056,7 @@ G
 A
 C
 A
-C
+Y
 C
 T
 T
@@ -8779,7 +8779,7 @@ T
 T
 A
 G
-C
+T
 C
 A
 G
@@ -13568,7 +13568,7 @@ G
 C
 T
 G
-G
+K
 T
 T
 T
@@ -16854,7 +16854,7 @@ G
 T
 G
 A
-T
+Y
 G
 C
 T
@@ -17744,7 +17744,7 @@ A
 A
 C
 C
-C
+Y
 T
 G
 C
@@ -17855,7 +17855,7 @@ G
 A
 A
 T
-A
+G
 T
 G
 A
@@ -18057,7 +18057,7 @@ G
 A
 C
 T
-C
+T
 T
 T
 T
@@ -23400,7 +23400,7 @@ C
 A
 G
 G
-A
+R
 T
 G
 T
@@ -24929,8 +24929,8 @@ G
 T
 C
 T
-G
 G
+K
 T
 A
 A
@@ -28141,7 +28141,7 @@ T
 G
 T
 T
-T
+C
 A
 C
 C
@@ -29868,27 +29868,6 @@ T
 G
 A
 C
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 A
 A
 A
